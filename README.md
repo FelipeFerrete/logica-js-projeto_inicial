@@ -10,14 +10,12 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
 
-// Código omitido. 
-Jogo do Número Secreto
 
-📌 Sobre o Jogo
+# 📌 Sobre o Jogo
 
 Este é um jogo simples desenvolvido em JavaScript onde o objetivo é adivinhar um número secreto. O jogador insere um número e recebe dicas se o número secreto é maior ou menor, até acertar.
 
-🚀 Como Funciona
+# 🚀 Como Funciona
 
 O jogo gera um número secreto fixo (neste caso, 5).
 
@@ -29,11 +27,11 @@ O jogador continua tentando até acertar.
 
 Ao acertar, o jogo exibe o número de tentativas usadas.
 
-🛠️ Tecnologias Utilizadas
+# 🛠️ Tecnologias Utilizadas
 
 JavaScript: Lógica do jogo e interação com o usuário.
 
-📂 Como Executar
+# 📂 Como Executar
 
 Clone o repositório:
 
